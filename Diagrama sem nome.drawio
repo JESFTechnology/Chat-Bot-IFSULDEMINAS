@@ -373,6 +373,18 @@
             <mxPoint x="1300" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1IMz-awUyQO1gc2ZHXrj-176" value="Solicita o log e envia a senha" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1IMz-awUyQO1gc2ZHXrj-177" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="490" as="sourcePoint" />
+            <mxPoint x="1030" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IMz-awUyQO1gc2ZHXrj-178" value="Retorna os logs em forma de pdf, txt ou xlsx" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
