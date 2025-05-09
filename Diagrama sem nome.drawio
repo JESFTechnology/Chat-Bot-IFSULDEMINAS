@@ -43,7 +43,7 @@
         <mxCell id="1IMz-awUyQO1gc2ZHXrj-53" value="Base de dados" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="1IMz-awUyQO1gc2ZHXrj-54" value="-perguntasFrequentes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-53">
+        <mxCell id="1IMz-awUyQO1gc2ZHXrj-54" value="&lt;div&gt;-idRegistro&lt;/div&gt;-perguntasFrequentes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-53">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IMz-awUyQO1gc2ZHXrj-55" value="-buscarResposta(pergunta: String):String&lt;div&gt;-adicionarPergunta(pergunta: JSON):&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-53">
