@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0" version="27.0.2">
   <diagram name="Página-1" id="9H2p1YK96EGHO1hDg4qJ">
-    <mxGraphModel dx="1430" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="1IMz-awUyQO1gc2ZHXrj-49" value="- nome: String&lt;div&gt;- status: Boolean&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-48">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1IMz-awUyQO1gc2ZHXrj-51" value="+responderMensagem&lt;div&gt;(mensagem: String):String&lt;/div&gt;&lt;div&gt;+encaminharParaAtendente ():void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-48">
+        <mxCell id="1IMz-awUyQO1gc2ZHXrj-51" value="-responderMensagem&lt;div&gt;(mensagem: String):String&lt;/div&gt;&lt;div&gt;-encaminharParaAtendente ():void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1IMz-awUyQO1gc2ZHXrj-48">
           <mxGeometry y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1IMz-awUyQO1gc2ZHXrj-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1IMz-awUyQO1gc2ZHXrj-48" source="1IMz-awUyQO1gc2ZHXrj-51" target="1IMz-awUyQO1gc2ZHXrj-49">
